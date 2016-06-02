@@ -1,0 +1,16 @@
+office 2016：BN346-KPVRG-HHQG3-6YDPV-8HV7H
+
+window 8.1
+
+win+x 选择命令提示符（管理员）输入slmgr.vbs /ipk TPY4B-CNKP3-8XXK3-H6PGF-YTB93 
+（注意s和/之间有空格） 回车会提示产品密钥安装成功，如果没提示告诉我一下哦~再输入slui 4（注意有空格）回车选择最下面的英国，点击下一步，截图给我一下~然后稍等哦
+
+虚拟机
+
+1. centos 64 v7：root/1q2w@3e.com
+
+2. github：laowcm@qq.com，laowcm
+
+3. d:\workspace :laowcm@qq.com，laowcm
+
+4. VM
